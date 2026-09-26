@@ -1,3 +1,6 @@
 .env
-dashboardMetroBus_AlvaroMedina.pbix
-05_PresentacionMetroBus.pptx
+*.pptx
+*.zip
+*.pbix
+
+!*04_dashboard.pbix
