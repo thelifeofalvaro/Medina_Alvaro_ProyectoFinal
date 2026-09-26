@@ -28,7 +28,7 @@ Proyecto de análisis de datos para una empresa ficticia de transporte urbano. E
 └── data/
     ├── *.csv
     └── data_limpios/
-        ├── *_limpio.csv
+        ├── *_limpio.csv (se crean al ejecutar 01_eda.ipynb, aunque se han dejado en el repositorio a modo de muestra)
         └── ...
 ```
 
@@ -88,4 +88,8 @@ El modelo final está compuesto por 9 tablas: 3 de hechos y 6 dimensiones. Duran
 
 ## Uso de IA
 
+<<<<<<< HEAD
 Se ha utilizado IA a modo de apoyo para redactar la documentación (incluido este documento) así como revisar y auditar los documentos, para cumplir con todos los requisitos del proyecto. La selección, validación e interpretación de los datos, así como las decisiones finales del proyecto, han sido realizadas por el autor.
+=======
+Se ha utilizado IA a modo de apoyo para redactar la documentación (incluido este documento) así como revisar y auditar los documentos, para cumplir con todos los requisitos del proyecto. La selección, validación e interpretación de los datos, así como las decisiones finales del proyecto, han sido realizadas por el autor.
+>>>>>>> 174c896e41ccb278452355c0c9edfd099eb7010a
