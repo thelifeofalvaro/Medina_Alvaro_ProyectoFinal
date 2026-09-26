@@ -3,10 +3,5 @@
 *.pptx
 *.zip
 *.pbix
-
 !*04_dashboard.pbix
-=======
-dashboardMetroBus_AlvaroMedina.pbix
-dashboardMetroBus_AlvaroMedina_v2.pbix
-05_PresentacionMetroBus.pptx
->>>>>>> 174c896e41ccb278452355c0c9edfd099eb7010a
+Extras/
