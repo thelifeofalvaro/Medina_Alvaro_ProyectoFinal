@@ -92,4 +92,3 @@ El modelo final está compuesto por 9 tablas: 3 de hechos y 6 dimensiones. Duran
 Se ha utilizado IA a modo de apoyo para redactar la documentación (incluido este documento) así como revisar y auditar los documentos, para cumplir con todos los requisitos del proyecto. La selección, validación e interpretación de los datos, así como las decisiones finales del proyecto, han sido realizadas por el autor.
 =======
 Se ha utilizado IA a modo de apoyo para redactar la documentación (incluido este documento) así como revisar y auditar los documentos, para cumplir con todos los requisitos del proyecto. La selección, validación e interpretación de los datos, así como las decisiones finales del proyecto, han sido realizadas por el autor.
->>>>>>> 174c896e41ccb278452355c0c9edfd099eb7010a
