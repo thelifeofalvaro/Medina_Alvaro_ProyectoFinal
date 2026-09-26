@@ -28,7 +28,7 @@ Proyecto de análisis de datos para una empresa ficticia de transporte urbano. E
 └── data/
     ├── *.csv
     └── data_limpios/
-        ├── *_limpio.csv (se crean al ejecutar 01_eda.ipynb)
+        ├── *_limpio.csv (se crean al ejecutar 01_eda.ipynb, aunque se han dejado en el repositorio a modo de muestra)
         └── ...
 ```
 
