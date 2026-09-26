@@ -189,6 +189,10 @@ Durante la EDA se detectaron problemas puntuales de calidad. Las relaciones entr
 
 La estrategia aplicada fue **corregir los errores identificables, reconstruir los valores cuando existía información suficiente y utilizar imputación estadística únicamente cuando no existía una alternativa determinista suficientemente fiable**. En `fact_incidencias`, por ejemplo, se conservaron valores elevados de duración de resolución y coste estimado porque correspondían a incidencias graves y podían representar información operacional relevante. En resumen, no se eliminaron automáticamente los valores extremos sin más. 
 
+### Nota extra importante
+
+**Registros fuera del periodo de análisis:** Durante la validación del modelo temporal en Power BI se detectaron 47 registros de fact_mantenimiento con fecha_entrada igual a 01/01/2025, fuera del periodo de análisis definido (2022–2024). Se excluyeron estos registros del conjunto analítico para mantener la coherencia temporal del proyecto. La incidencia no había sido identificada en la primera fase de EDA al no haberse realizado una comprobación sistemática de mínimos y máximos temporales en todas las tablas de hechos.
+
 # 4. Definición formal de KPIs
 
 Los siguientes indicadores constituyen una primera definición de las métricas que podrán utilizarse posteriormente en el cuadro de mando. La definición exacta es importante para garantizar que una misma métrica no se interprete de forma diferente según la visualización.
