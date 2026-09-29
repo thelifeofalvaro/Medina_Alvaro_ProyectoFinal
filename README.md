@@ -10,7 +10,7 @@ Proyecto de análisis de datos para una empresa ficticia de transporte urbano. E
 - **Matplotlib / Seaborn:** Visualización exploratoria.
 - **python-dotenv:** Gestión de credenciales mediante variables de entorno.
 - **PostgreSQL:** Base de datos relacional.
-- **pgAdmin 4:** Sdministración y ejecución de consultas SQL.
+- **pgAdmin 4:** Administración y ejecución de consultas SQL.
 - **psycopg2:** Conexión entre Python y PostgreSQL.
 - **Jupyter Notebook:** Desarrollo del EDA.
 - **Power BI:** Modelado analítico, KPIs y dashboard
@@ -88,7 +88,4 @@ El modelo final está compuesto por 9 tablas: 3 de hechos y 6 dimensiones. Duran
 
 ## Uso de IA
 
-<<<<<<< HEAD
-Se ha utilizado IA a modo de apoyo para redactar la documentación (incluido este documento) así como revisar y auditar los documentos, para cumplir con todos los requisitos del proyecto. La selección, validación e interpretación de los datos, así como las decisiones finales del proyecto, han sido realizadas por el autor.
-=======
 Se ha utilizado IA a modo de apoyo para redactar la documentación (incluido este documento) así como revisar y auditar los documentos, para cumplir con todos los requisitos del proyecto. La selección, validación e interpretación de los datos, así como las decisiones finales del proyecto, han sido realizadas por el autor.
